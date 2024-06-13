@@ -18,8 +18,9 @@
 - 不写 Python，一生黑py的包管理模式（哼
 - 有个还算~~认真~~管理的博客哦
 - BTW I Use Archlinux
+- 好像要一个符合人设的头像... 我不会美术呀www
 
 ## 更多信息
 
 - [SourLemonJuice-blog - About](https://sourlemonjuice.github.io/SourLemonJuice-blog/about)
-- GitHub主页上链接的其他平台们
+- GitHub 主页上链接的其他平台们（GitHub 是我最主要的网络账号了）
