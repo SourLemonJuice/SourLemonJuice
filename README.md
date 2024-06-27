@@ -19,8 +19,6 @@
 - 梦想是在未来能被人叫做 Developer 而不是 Script Guy 或者 Coder
 - 感觉从 GitHub Dashboard 的提交频率上能看出我的精神状态...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourLemonJuice&layout=compact&theme=transparent&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 更多信息
 
 - [SourLemonJuice-blog - About](https://sourlemonjuice.github.io/SourLemonJuice-blog/about)
