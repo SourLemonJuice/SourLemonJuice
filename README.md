@@ -14,7 +14,7 @@
 - 超级恨电子硬件，但每次都绕不开它们，同时也觉得它们很有趣。
 - 在最终用户角度比较熟悉 linux，所以有些 bash 脚本的仓库。
 - Emm... I'm using linux desktop OS daily. （在被修改前这行是一句英文meme）
-- 有个还算~~认真~~管理的博客哦。
+- 有个还算认真管理的博客哦。
 - 想要一个符合人设的头像... 但不会美术呀www
 - 梦想是在未来能被人叫做 Developer 而不是 Script Guy 或者 Coder。
 - 感觉从 GitHub Dashboard 的提交频率上能看出我的精神状态...
@@ -44,6 +44,13 @@ ChatGPT 3 的出现让这些模型看着更加类人，但在我看来努力利�
 人的创造力仍是宝贵的，别“人”整理好的东西仍比 ChatGPT 来的可靠。但将 AI 恰当的嵌入进创作的过程中却能提升这些创造力的价值。
 
 提升自己的能力与使用 AI 并不冲突，甚至相辅相成。
+
+## 编码风格
+
+- C/C++
+  - [.clang-format](https://gist.github.com/SourLemonJuice/047f051f2d6365aed547826d22b2a516)
+  - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+  - [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
 
 ## 更多信息
 
