@@ -10,10 +10,11 @@
 
 ## 这个家伙 会干/想干 什么
 
-算是个写 C 的嘛？大概吧，虽说这已经是我最认真对待的语言，但也明白未来的路还很长很长。高级语言亦或是低级语言都有自己的长处与不足，学习的方向与兴趣也都截然不同。\
+在最终用户角度算熟悉 Linux，虽说和大一些的服务器或者集群沾不上边但也玩的很嗨啦。\
+编程上看，算是个写 C 的嘛？大概吧，虽说这已经是我最认真对待的语言，但也明白未来的路还很长很长。高级语言亦或是低级语言都有自己的长处与不足，学习的方向与兴趣也都截然不同。\
 面向对象从来都不是坏事，像 C 一样的低级语言也不是。程序的好坏总是由人决定的... 对吗？\
 说来，最开始写的第一个能被认可的语言还是 bash 脚本呢。\
-找到一种技术的设计“内核/哲学”会比熟练的使用更有意义（难得的肯定句）
+找到一种技术的设计“内核/哲学”会比熟练的使用更有意义（难得的肯定句）。嘛... 我真的希望自己能叫自己 Developer
 
 至于前端什么的倒是有在考虑，但一直兴趣不大。人们似乎总是在追求些新潮的画面效果，但我总觉得那只是些轻浮的装饰品。诚然，网页仍然极其有用，但我想先认识认识什么是美术
 
@@ -23,19 +24,13 @@
 
 另外硬件设备超烦人的说，但每次都绕不开它们，甚至仔细想来还很有趣
 
-## 碎碎念
-
-- 在最终用户角度算熟悉 Linux，虽说和大一些的服务器或者集群沾不上边但也玩的很嗨啦\
-  Emm... I'm using Linux（在被修改前这行是一句英文meme）
-- 梦想是在未来能被人叫做 Developer 而不是 Script Guy
-- 感觉从 GitHub 的提交频率上能看出我的精神状态... 不过从六月份以来好了很多了
-- 知道和明白蛮多道理的，不算无知，但也不明白很多东西
-- CLI/TUI 可是历史悠久的艺术品，虽说 GUI 写好了也不错但... “好看”的基线也更高
-- [至少在 2024 年里我对人工智能/AI的一些看法 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/posts2/2024/07/ai-for-me)
-
 ## 另外
 
-GitHub 是我最主要的网络账号咯（毕竟什么都能放嘛）
+- 感觉从 GitHub 的提交频率上能看出我的精神状态... 不过从六月份以来好了很多了
+- [至少在 2024 年里我对人工智能/AI的一些看法 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/posts2/2024/07/ai-for-me)
+
+GitHub 是我最主要的网络账号咯（毕竟什么都能放嘛），但给陌生人会造成也确实就是了...\
+[sourlemonjuice.net](https://sourlemonjuice.net/) 是个用来放怪东西的网站，我没有想好它的未来，它也充满了不确定性。虽然它比现有的 blog 的 URL 长度短很多就是了...
 
 除了这里的 README 以外，在这里还有些别的想说的话：[关于 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/about)\
 最后的最后，这里是联系方式：[网络账号 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/about/contact)
