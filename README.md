@@ -1,9 +1,8 @@
 # 酸柠檬猹/SourLemonJuice
 
-这是一只柠檬，现在它正在瞎写些东西 －O－
+这是一只猹，现在它正在瞎写些东西 －O－
 
-又或是在用代码逃避现实？不过无论怎样我对计算机的爱是永恒不变的。\
-不过，我对计算机的情感里不只有代码。相反对整个软硬件系统的控制才是我了解新技术的动力，无论是当初还是现在
+又或是在用代码逃避现实？不过无论怎样计算机在我心里一直都有着它那独特的地位呢
 
 如果可以的话，放开过去，继续尝试做个温柔且理智的人吧...\
 咳咳，重度恐血。还是在这里写一下吧
@@ -26,11 +25,10 @@
 
 ## 另外
 
-- 感觉从 GitHub 的提交频率上能看出我的精神状态... 不过从六月份以来好了很多了
-- [至少在 2024 年里我对人工智能/AI的一些看法 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/posts2/2024/07/ai-for-me)
+感觉从 GitHub 的提交频率上能看出我的精神状态... 不过从24年六月份以来好了很多了
 
-GitHub 是我最主要的网络账号咯（毕竟什么都能放嘛），但给陌生人会造成也确实就是了...\
-[sourlemonjuice.net](https://sourlemonjuice.net/) 是个用来放怪东西的网站，我没有想好它的未来，它也充满了不确定性。虽然它比现有的 blog 的 URL 长度短很多就是了...
+GitHub 是我最主要的网络账号咯（毕竟什么都能放嘛），但给陌生人会造成困扰也确实就是了...\
+[sourlemonjuice.net](https://sourlemonjuice.net/) 是个用来放怪东西的域名，我没有想好它的未来，它也充满了不确定性...
 
-除了这里的 README 以外，在这里还有些别的想说的话：[关于 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/about)\
-最后的最后，这里是联系方式：[网络账号 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/about/contact)
+- [关于 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/about)：除了这里的 README 以外，在这里还有些别的想说的话
+- [网络账号 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/about/contact)：最后的最后，这里是所有联系方式们
