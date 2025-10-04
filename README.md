@@ -1,10 +1,8 @@
-# 酸柠檬猹/LemonChar/SourLemonJuice
+# 酸柠檬猹/SourLemonJuice/Char
 
 这是一只猹，现在它正在瞎写些东西 －O－
 
 对世界抱着一丝期待和半点漠然也在用网络逃避着它。如果可以的话，放开过去，继续尝试做个温柔且理智的人吧
-
-咳咳，重度恐血... 还是在这里写一下吧
 
 ## 这个家伙会干点什么
 
@@ -14,23 +12,23 @@
 现在比较熟悉的语言是 C，最开始认识的语言是 bash（\
 每个语言都有各自的好，找到一种技术的设计“内核/哲学”会比熟练的使用更有意义（难得的肯定句）。嘛... 我真的希望自己能叫自己 Developer
 
-> Golang 在学ing
-
-![Skill Icon](https://skillicons.dev/icons?i=bash,c,linux,docker&theme=dark)
-
-至于前端什么的倒是有在考虑，但一直兴趣不大现在只会基础的 HTML 和 CSS。如果到时候真的要认识的话我倒是想先去好好学学美术设计
-
+至于前端什么的倒是有在考虑，但一直兴趣不大现在只会基础的 HTML 和 CSS。如果到时候真的要认识的话我倒是想先去好好学学美术设计。\
 另外硬件设备超烦人的说，但每次都绕不开它们，甚至仔细想来还很有趣
 
-> 来点爆论：\
-> 整个 PYPI 就一个一个巨大的 .venv（烦）
+> 不（想）写 Python, C++ 咕
+
+![Skill Icon](https://skillicons.dev/icons?i=c,go,bash,linux,redhat,docker,arduino,cloudflare&theme=dark)
 
 ## 另外
 
 感觉从 GitHub 的提交频率上能看出我的精神状态... 不过从24年六月份以来好了很多了
 
 GitHub 是我最主要的网络账号咯（毕竟什么都能放嘛），但给陌生人会造成困扰也确实就是了...\
-[sourlemonjuice.net](https://sourlemonjuice.net/) 是个用来放怪东西的域名，我没有想好它的未来，它也充满了不确定性...
+除了一些社交媒体上的账号，我更关心的是域名，毕竟这也算是互联网的核心了。想象着自己在一片大洋上拥有者一片岛屿，自己的指示在十几秒内就可以扩散到全球。嘛，我是觉得这种感觉很酷啦
 
-- [关于 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/about)：除了这里的 README 以外，在这里还有些别的想说的话
-- [网络账号 | SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/about/contact)：最后的最后，这里是所有联系方式们
+[sourlemonjuice.net](https://sourlemonjuice.net/) 是个我自己的幕后域名，上面可能有些公开服务但本质上来说，它在背地里承担的很多 DNS records 和被挡在 Cloudflare Access 背后的服务们才是这个域的核心。\
+或许你可以在它的主页看看有什么有用的公开服务之类的👀，那里有一个 DNS 服务器和连接性检查服务长时间开着
+
+欢迎来我的博客看看哦w：[SourLemonJuice-blog](https://sourlemonjuice.github.io/SourLemonJuice-blog/)
+
+~~咳咳，重度恐血...~~ 还是在这里写一下吧
