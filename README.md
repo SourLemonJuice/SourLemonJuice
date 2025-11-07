@@ -1,4 +1,4 @@
-# 酸柠檬猹/SourLemonJuice/Char
+# 酸柠檬猹/SourLemonJuice
 
 这是一只猹，现在它正在瞎写些东西 －O－
 
