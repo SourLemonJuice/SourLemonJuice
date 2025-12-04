@@ -26,9 +26,6 @@ GitHub 是我最主要的网络账号咯（毕竟什么都能放嘛）。\
 [sourlemonjuice.net](https://sourlemonjuice.net/) 是个我自己的幕后域名，上面可能有些公开服务但本质上来说，它在背地里承担的很多 DNS records 和被挡在 Cloudflare Access 背后的服务们才是这个域的核心。\
 或许你可以在它的主页看看有什么有用的公开服务之类的👀，那里有一个 DNS 服务器和连接性检查服务长时间开着
 
-另一个域名是 `charchar.dev` 这里的东西都是公开且用浏览器就能打开的全人类向的网站（？）。有猹猹这种叠词在真的好好记，以前 blog 的 baseurl 能长出十万八千里。\
-至于它上面跑了什么... 答案是还是在 `sourlemonjuice.net` 里能看到（
-
-欢迎来我的博客看看哦w：[SourLemonJuice-blog](https://blog.charchar.dev)
+欢迎来我的博客看看哦w：[SourLemonJuice-blog](https://blog.sourlemonjuice.net/)
 
 感觉从 GitHub 的提交频率上能看出我的精神状态... 不过从24年六月份以来好了很多了。还是要感谢每一位碰到的友善的朋友们awa
